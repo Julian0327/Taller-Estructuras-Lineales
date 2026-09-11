@@ -14,7 +14,7 @@ public class App {
 
             switch (opcion) {
                 case 1 -> Ejercicio1.ejecutar();
-
+                case 2 -> Ejercicio2.ejecutar();
                 case 0 -> System.out.println("Saliendo...");
                 default -> System.out.println("Opción no válida.");
             }
