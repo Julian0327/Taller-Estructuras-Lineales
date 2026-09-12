@@ -20,6 +20,7 @@ public class App {
                 case 4 -> Ejercicio4.ejecutar();
                 case 5 -> Ejercicio5.ejecutar();
                 case 6 -> Ejercicio6.ejecutar();
+                case 7 -> Ejercicio7.ejecutar(sc);
                 case 0 -> System.out.println("Saliendo...");
                 default -> System.out.println("Opción no válida.");
             }
