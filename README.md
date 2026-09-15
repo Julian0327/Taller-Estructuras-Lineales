@@ -16,13 +16,17 @@ El proyecto está desarrollado con enfoque en Clean Code y programación orienta
 - `src/arreglos/` — ejercicios de arreglos unidimensionales
 - `src/arraylist/` — ejercicios con ArrayList
 - `src/matrices/` — ejercicios de matrices
+- `src/App.java` — menú principal
 
-## Cómo ejecutar
+## Ejecución
 1. Clonar el repositorio:
 
 git clone https://github.com/Julian0327/Taller-Estructuras-Lineales.git
 
 2. Abrir el proyecto en NetBeans o VS Code.
-3. Ubicar la clase `Main.java` dentro de `src/`.
-4. Ejecutar el programa con el botón **Run** del editor sobre la clase `Main`.
+3. Ubicar la clase `App.java` dentro de `src/`.
+4. Ejecutar el programa con el botón **Run** del editor sobre la clase `App`.
 5. Seguir las instrucciones que aparecen en consola para cada ejercicio.
+6. Seleccionar el ejercicio que se desea ejecutar con el número correspondiente.
+7. El programa mostrará el resultado del ejercicio seleccionado.
+8. Seleccionar la opción 0 para salir del programa.     
