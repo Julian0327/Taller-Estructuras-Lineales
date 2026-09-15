@@ -17,7 +17,6 @@ public class Ejercicio2 {
         return pares;
     }
 
-    // 1. Mostrar los números pares en una sola línea
     public static void imprimirEnUnaLinea(int[] pares) {
         System.out.println("Números pares en una sola línea:");
         for (int i = 0; i < pares.length; i++) {
@@ -26,8 +25,6 @@ public class Ejercicio2 {
         System.out.println();
     }
 
-    // 2. Mostrar los números pares en 10 líneas indicando el número de línea (10
-    // por línea)
     public static void imprimirEnDiezLineas(int[] pares) {
         System.out.println("Números pares en 10 líneas:");
         int elementosPorLinea = 10;
